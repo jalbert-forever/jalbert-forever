@@ -1,9 +1,17 @@
 ## <div align="center">
-  <img src="Tumblr_l_59941932003226.gif" width="100%" alt="Nyan Cat">
+
+<p>
+  <img src="Tumblr_l_18623096388780.gif" width="49%">
+  <img src="Tumblr_l_18626087391279.gif" width="49%">
+</p>
+
+<p>
+  <img src="Tumblr_l_13659519944997.gif" width="170">
+  <img src="Tumblr_l_18626369823050.jpg" width="90">
+  <img src="Tumblr_l_13658381784320.gif" width="170">
+</p>
+
 </div>
-
-# jalbert...🤤
-
 <!--
 **jalbert-forever/jalbert-forever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
